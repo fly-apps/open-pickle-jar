@@ -22,7 +22,6 @@
 # misc
 .DS_Store
 *.pem
-.clinic
 
 # debug
 npm-debug.log*
