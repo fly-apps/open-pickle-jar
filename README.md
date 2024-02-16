@@ -1,6 +1,6 @@
-# Open Pickle Jar
+# Open Pickle Jar App: Delegating tasks on Fly Machines
 
-A sample app demonstrating how one could delegate resource-intensive tasks to more powerful Fly Machines. Read the accompanying blog post here:
+There are many ways to delegate work in web applications, from using background workers to serverless architecture. This is a sample app demonstrating how one could delegate resource-intensive tasks to more powerful Fly Machines. You can find the accompanying blog post here: [Delegating tasks on Fly Machines](https://fly.io/blog/delegate-tasks-to-fly-machines/)
 
 ![Sketch of two cartoon characters, both with computer monitors as heads; the small guy is handing the larger guy a pickle jar to open](/public/open-pickle-jar-sketch.jpg)
 
